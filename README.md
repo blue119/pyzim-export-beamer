@@ -8,7 +8,9 @@ Installation
 
 Tutorial
 --------
-- brain down your mind in pyzim and export to beamer format.
+- brain down your mind in pyzim and 
+- export to beamer format.
+
     zim.py --export --template=data/templates/beamer/Default.tex --output=./ --format=beamer ./pyzim-export-beamer/example/
 
 - Convert TeX to pdf with pdflatex
