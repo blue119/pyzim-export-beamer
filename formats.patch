@@ -1,0 +1,16 @@
+=== modified file 'zim/formats/__init__.py'
+--- zim/formats/__init__.py	2013-03-07 20:23:50 +0000
++++ zim/formats/__init__.py	2014-04-11 15:19:14 +0000
+@@ -126,9 +126,9 @@
+ 
+ def list_formats(type):
+ 	if type == EXPORT_FORMAT:
+-		return ['HTML','LaTeX', 'Markdown (pandoc)', 'RST (sphinx)']
++		return ['HTML','LaTeX', 'Markdown (pandoc)', 'RST (sphinx)', 'Beamer']
+ 	elif type == TEXT_FORMAT:
+-		return ['Text', 'Wiki', 'Markdown (pandoc)', 'RST (sphinx)']
++		return ['Text', 'Wiki', 'Markdown (pandoc)', 'RST (sphinx)', 'Beamer']
+ 	else:
+ 		assert False, 'TODO'
+ 
+

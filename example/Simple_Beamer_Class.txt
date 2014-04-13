@@ -1,0 +1,91 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-04-13T11:23:02+08:00
+
+====== Simple Beamer Class ======
+
+===== Section no.1 =====
+
+=== Title ===
+Each frame should have a title.
+
+==== Subsection no.1.1 ====
+
+=== Title 1.1 ===
+Without title somethink is missing.
+
+===== Section no. 2 =====
+
+==== Lists I ====
+
+=== unnumbered lists ===
+* Introduction to LATEX
+* Course 2
+* Termpapers and presentations with LATEX
+* Beamer class
+
+=== lists with pause ===
+* Introduction to LATEX
+
+=== lists with pause ===
+* Introduction to LATEX
+* Course 2
+
+=== lists with pause ===
+* Introduction to LATEX
+* Course 2
+* Termpapers and presentations with LATEX
+
+=== lists with pause ===
+* Introduction to LATEX
+* Course 2
+* Termpapers and presentations with LATEX
+* Beamer class
+
+==== Lists II ====
+
+=== numbered lists ===
+1. Introduction to LATEX
+2. Course 2
+3. Termpapers and presentations with LATEX
+4. Beamer class
+
+=== numbered lists with pause ===
+1. Introduction to LATEX
+
+=== numbered lists with pause ===
+1. Introduction to LATEX
+2. Course 2
+
+=== numbered lists with pause ===
+1. Introduction to LATEX
+2. Course 2
+3. Termpapers and presentations with LATEX
+
+=== numbered lists with pause ===
+1. Introduction to LATEX
+2. Course 2
+3. Termpapers and presentations with LATEX
+4. Beamer class
+
+===== Section no.3 =====
+
+==== Tables ====
+
+=== Tables ===
+* pyzim didn't support table
+
+===== Section no. 4 =====
+
+==== blocs ====
+
+=== blocs ===
+
+== title of the bloc ==
+bloc text
+
+== title of the bloc ==
+bloc text
+
+== title of the bloc ==
+bloc text
